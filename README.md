@@ -32,7 +32,7 @@ I am a Native Android Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :telescope: I love making apps and am learning and using my knowledge of java to develop native android apps.
 
-- :seedling: Learning to evolve with the fact pace technology.
+- :seedling: Learning to evolve with the fast pace technology.
 
 - :zap: In my free time, I prefer reading spritual texts.
 
