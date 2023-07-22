@@ -28,7 +28,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Native Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Native Android Developer from India.
 
 - :telescope: I love making apps and am learning and using my knowledge of java to develop native android apps.
 
