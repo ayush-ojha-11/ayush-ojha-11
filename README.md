@@ -53,4 +53,4 @@ I am a Native Android Developer from India.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ayush-ojha-11&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-ojha-11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-ojha-11&layout=compact&theme=vision-friendly-dark)](https://github.com/ayush-ojha-11/github-readme-stats)
